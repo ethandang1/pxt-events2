@@ -1,1 +1,8 @@
-
+let randomnumber15 = Math.randomRange(1, 5)
+game.splash("This is a number 1-5" + ":" + randomnumber15, "")
+let randomnumber610 = Math.randomRange(6, 10)
+game.splash("This is a number 6-10" + ":" + randomnumber610, "")
+let randomnumber1120 = Math.randomRange(11, 20)
+game.splash("This is a number 11-20" + ":" + randomnumber1120, "")
+let randomnumber1100 = Math.randomRange(1, 100)
+game.splash("This is a number 1-100" + ":" + randomnumber1100, "")
